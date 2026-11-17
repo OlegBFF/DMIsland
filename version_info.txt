@@ -1,0 +1,18 @@
+# UTF-8
+# Версионная информация для IslandLauncher.exe: «Издатель» в диспетчере задач (вкладка «Автозагрузка») и в свойствах файла
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(5, 4, 0, 0), prodvers=(5, 4, 0, 0), mask=0x3f, flags=0x0, OS=0x40004,
+                    fileType=0x1, subtype=0x0, date=(0, 0)),
+  kids=[
+    StringFileInfo([StringTable('040904B0', [
+      StringStruct('CompanyName', 'OlegBFF'),
+      StringStruct('FileDescription', 'Island Pro'),
+      StringStruct('FileVersion', '5.4.0.0'),
+      StringStruct('InternalName', 'IslandLauncher'),
+      StringStruct('LegalCopyright', '\u00a9 OlegBFF'),
+      StringStruct('OriginalFilename', 'IslandLauncher.exe'),
+      StringStruct('ProductName', 'Island Pro'),
+      StringStruct('ProductVersion', '5.4.0.0')])]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
