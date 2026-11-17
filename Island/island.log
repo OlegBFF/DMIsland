@@ -1,0 +1,256 @@
+[2026-11-15 12:21:24] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:21:24] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:21:24] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:21:24] (повторяется, дальше не пишу) same message
+[2026-11-15 12:21:24] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:22:03] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:22:03] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:22:03] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:22:03] (повторяется, дальше не пишу) same message
+[2026-11-15 12:22:03] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:05] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:05] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:23:05] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:05] (повторяется, дальше не пишу) same message
+[2026-11-15 12:23:05] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:07] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:07] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:23:07] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:07] (повторяется, дальше не пишу) same message
+[2026-11-15 12:23:07] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:17] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:17] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:23:17] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:23:17] (повторяется, дальше не пишу) same message
+[2026-11-15 12:23:17] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:30] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:30] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:29:30] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:30] (повторяется, дальше не пишу) same message
+[2026-11-15 12:29:30] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:37] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:37] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/proj/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/proj/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/proj/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 12:29:37] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 12:29:37] (повторяется, дальше не пишу) same message
+[2026-11-15 12:29:37] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:47:10] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:47:10] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 195, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 99, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 110, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 13:47:10] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:47:10] (повторяется, дальше не пишу) same message
+[2026-11-15 13:47:10] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:52:41] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:52:41] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-15 13:52:41] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-15 13:52:41] (повторяется, дальше не пишу) same message
+[2026-11-15 13:52:41] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:52] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:52] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 00:18:52] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:52] (повторяется, дальше не пишу) same message
+[2026-11-16 00:18:52] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:54] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:54] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 00:18:54] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:18:54] (повторяется, дальше не пишу) same message
+[2026-11-16 00:18:54] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:02] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:02] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 00:19:02] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:02] (повторяется, дальше не пишу) same message
+[2026-11-16 00:19:02] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:21] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:21] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 00:19:21] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 00:19:21] (повторяется, дальше не пишу) same message
+[2026-11-16 00:19:21] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:35:40] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:35:40] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 08:35:40] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:35:40] (повторяется, дальше не пишу) same message
+[2026-11-16 08:35:40] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:36] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:36] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 08:37:36] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:36] (повторяется, дальше не пишу) same message
+[2026-11-16 08:37:36] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:51] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:51] database: пересоздать не удалось, работаю в памяти
+Traceback (most recent call last):
+  File "/home/claude/island/Island/core/db.py", line 198, in open_database
+    return Database(path)
+           ^^^^^^^^^^^^^^
+  File "/home/claude/island/Island/core/db.py", line 102, in __init__
+    s._migrate()
+  File "/home/claude/island/Island/core/db.py", line 113, in _migrate
+    ver = s._con.execute('PRAGMA user_version').fetchone()[0]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.DatabaseError: file is not a database
+
+[2026-11-16 08:37:51] database corrupted, recreating: DatabaseError('file is not a database')
+[2026-11-16 08:37:51] (повторяется, дальше не пишу) same message
+[2026-11-16 08:37:51] database corrupted, recreating: DatabaseError('file is not a database')
